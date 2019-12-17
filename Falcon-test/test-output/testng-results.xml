@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13750" started-at="2019-12-16T23:28:08 IST" finished-at="2019-12-16T23:28:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13750" started-at="2019-12-16T23:28:08 IST" finished-at="2019-12-16T23:28:22 IST">
+      <class name="com.falcon.test.smoke.TestSample">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:com.falcon.test.smoke.TestSample@5c5a1b69]" name="preConditions" is-config="true" duration-ms="13550" started-at="2019-12-16T23:28:08 IST" finished-at="2019-12-16T23:28:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="testSample()[pri:0, instance:com.falcon.test.smoke.TestSample@5c5a1b69]" name="testSample" duration-ms="31" started-at="2019-12-16T23:28:22 IST" finished-at="2019-12-16T23:28:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSample -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:com.falcon.test.smoke.TestSample@5c5a1b69]" name="postConditions" is-config="true" duration-ms="121" started-at="2019-12-16T23:28:22 IST" finished-at="2019-12-16T23:28:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- com.falcon.test.smoke.TestSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
